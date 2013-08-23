@@ -1,0 +1,10 @@
+/*
+Theme Name:     Internet Monitor
+Theme URI:      http://example.com/
+Description:    Child theme of Twenty Eleven for Internet Monitor
+Author:         jdcc
+Template:       twentyeleven
+Version:        0.1.0
+*/
+
+@import url("../twentyeleven/style.css");
